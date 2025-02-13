@@ -24,5 +24,10 @@ public class PrimeiraAulaApplication {
         }
 
         System.out.println("ALUNOS TOP");
+        System.out.println("Atividade 1- aula 2 ");
+
+        System.out.println("Realizar um pull desse arquivo e fazer uma" +
+                " melhoria criando uma calculadora de calculo de nota da UMC ");
+
 }
 }
