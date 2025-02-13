@@ -22,5 +22,7 @@ public class PrimeiraAulaApplication {
         }else {
             System.out.println("número maior que 5");
         }
+
+        System.out.println("ALUNOS TOP");
 }
 }
