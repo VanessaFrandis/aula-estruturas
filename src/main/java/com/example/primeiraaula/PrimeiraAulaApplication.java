@@ -13,10 +13,14 @@ public class PrimeiraAulaApplication {
 
     Scanner teclado = new Scanner(System.in);
 
-    int num = 2;
     System.out.println("Digite um numero: ");
-    String alunos = teclado.next();
-        System.out.println(alunos);
+    double num = teclado.nextDouble();
 
+
+        if(num > 5){
+            System.out.println("numero menor que 5");
+        }else {
+            System.out.println("número maior que 5");
+        }
 }
 }
